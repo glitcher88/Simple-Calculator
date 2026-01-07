@@ -1,0 +1,10 @@
+C:\Users\admin\source\repos\Calculator\bin\Release\Simple Calculator.exe.config
+C:\Users\admin\source\repos\Calculator\bin\Release\Simple Calculator.exe
+C:\Users\admin\source\repos\Calculator\bin\Release\Simple Calculator.pdb
+C:\Users\admin\source\repos\Calculator\obj\Release\Calculator.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\Calculator\obj\Release\Calculator.Form1.resources
+C:\Users\admin\source\repos\Calculator\obj\Release\Calculator.Properties.Resources.resources
+C:\Users\admin\source\repos\Calculator\obj\Release\Calculator.csproj.GenerateResource.cache
+C:\Users\admin\source\repos\Calculator\obj\Release\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\Calculator\obj\Release\Simple Calculator.exe
+C:\Users\admin\source\repos\Calculator\obj\Release\Simple Calculator.pdb
